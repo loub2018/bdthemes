@@ -1,0 +1,11 @@
+//META{"name":"Win10 Theme","description":"A Win10 theme for Discord.","author":"gametart434#1502","version":"1.0"}*//{}
+
+@import url (https://raw.githack.com/loub2018/bdthemes/master/windows10.css);
+
+:root{
+	  --background-image: url(https://raw.githack.com/loub2018/bdthemes/master/back.jpg);
+	  --background-brightness: 0.6;
+	--accent: #0072C6;
+	--link: #0078D7;
+	--guildvoice: #10893E
+}
